@@ -66,7 +66,7 @@ employeesRouter.post(
         .required(),
       level: Joi.string()
         .max(100)
-        .valid('junior', 'pleno', 'senior', 'diretor')
+        .valid('junior', 'pleno', 'senior', 'estagiario')
         .required(),
     },
   }),
