@@ -1,5 +1,5 @@
 # ActionsysAPI
-ActionsysAPI desenvolvida em Node.js
+ActionsysAPI desenvolvida em Node.js aproveitando diversos conceitos do SOLID e arquitetura DDD e TDD
 
 # Tecnologias utilizadas
 
