@@ -30,7 +30,7 @@
 🙂 Você precisa primeiro criar um usuário utilizando as rotas de employee (POST)
 Após a criação do usuário já será possível efetuar o login com a mesma senha utilizada no cadastro.
 
-✔ Foi feita uma unificação de usuários com funcionários, então todos os usuários criados podem efetuar login com a senha que você cadastrou neles.
+✔ Foi feita uma unificação de usuários com funcionários, então todos os funcionários criados podem efetuar login com a senha que você cadastrou neles.
 
 ✔ Aplicação feita com base em regras de negócio flexíveis, para uma melhor implementação de todas as funcionalidades, arquiteturas, fundamentos que pude juntar no projeto em torno dois dias.
 
