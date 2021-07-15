@@ -6,6 +6,7 @@
 ## Back end
 - Node.js
 - Typescript
+- Jest para testes unitários
 
 ### Bibliotecas adicionadas ao projeto
 
