@@ -1,5 +1,5 @@
 # ActionsysAPI
-ActionsysAPI desenvolvida em Node.js
+🚀 ActionsysAPI desenvolvida em Node.js aproveitando diversos conceitos do SOLID e arquitetura DDD e TDD
 
 # Tecnologias utilizadas
 
@@ -23,6 +23,15 @@ ActionsysAPI desenvolvida em Node.js
 - eslint: Padronização de código.
 - prettier: Manter o código mais bonito e organizado.
 - uuid: Geração de id único universal
+
+## Instruções caso queira utilizar o Actionsys-front-end junto
+
+🙂 Você precisa primeiro criar um usuário utilizando as rotas de employee (POST)
+Após a criação do usuário já será possível efetuar o login com a mesma senha utilizada no cadastro.
+
+✔ Foi feita uma unificação de usuários com funcionários, então todos os usuários criados podem efetuar login com a senha que você cadastrou neles.
+
+✔ Aplicação feita com base em regras de negócio flexíveis, para uma melhor implementação de todas as funcionalidades, arquiteturas, fundamentos que pude juntar no projeto em torno dois dias.
 
 # Como executar o projeto
 
