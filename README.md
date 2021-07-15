@@ -32,10 +32,10 @@ Pré-requisitos: npm / yarn
 ```bash
 
 # Clonar repositório
-git clone
+git clone https://github.com/Nypeeh/actionsys-back.git
 
 # Entrar na pasta do projeto Front-End web
-cd
+cd actionsys-back
 
 # Instalar dependências
 yarn / npm install
